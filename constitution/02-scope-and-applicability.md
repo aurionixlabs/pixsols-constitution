@@ -19,8 +19,31 @@ e) Any successor system that claims continuity, inheritance, or legitimacy from 
 Any system meeting the above criteria is bound by this Constitution regardless of implementation, medium, or jurisdiction.
 
 ---
+### 2.2 Pixsols v0 Scope Freeze
 
-### 2.2 Actors Bound
+The initial release of Pixsols (“Pixsols v0”) is hereby scope-frozen.
+
+Pixsols v0 is limited strictly to the following functions and representations:
+
+a) Definition and publication of the Pixsols Constitution and governance framework  
+b) Conceptual and architectural specification of Pixsols systems, agents, and constraints  
+c) Non-executing prototypes, diagrams, simulations, documentation, and illustrative artifacts  
+d) Research, safety, legitimacy, and alignment analysis  
+e) Internal development, testing, and demonstration without autonomous authority  
+
+Pixsols v0 explicitly SHALL NOT include:
+
+a) Autonomous execution of real-world actions  
+b) Control, delegation, or substitution of human authority  
+c) Economic enforcement, financial custody, or automated payments  
+d) Claims of operational superintelligence or real-world agency  
+e) Production deployment beyond research, demonstration, or advisory contexts  
+
+No expansion beyond this scope is permitted without a formal constitutional amendment under Section 6.
+
+---
+
+### 2.3 Actors Bound
 
 This Constitution binds:
 
@@ -34,7 +57,7 @@ No actor may exempt themselves through role, authority, ownership, or emergency 
 
 ---
 
-### 2.3 Temporal Applicability
+### 2.4 Temporal Applicability
 
 This Constitution applies:
 
@@ -46,7 +69,7 @@ Expiration, suspension, dormancy, or shutdown does not nullify constitutional ob
 
 ---
 
-### 2.4 Jurisdictional Independence
+### 2.5 Jurisdictional Independence
 
 This Constitution applies independently of:
 
@@ -59,7 +82,7 @@ Where conflicts arise, the Constitution governs internal system behavior even wh
 
 ---
 
-### 2.5 Non-Bypassability
+### 2.6 Non-Bypassability
 
 No technical, legal, organizational, or emergency mechanism may bypass this Constitution.
 
@@ -73,7 +96,7 @@ shall be treated as a constitutional violation.
 
 ---
 
-### 2.6 Precedence Over Lower Artifacts
+### 2.7 Precedence Over Lower Artifacts
 
 This Constitution supersedes:
 
@@ -87,7 +110,7 @@ Lower-order documents derive validity only insofar as they remain consistent wit
 
 ---
 
-### 2.7 Interpretive Principle
+### 2.8 Interpretive Principle
 
 In cases of ambiguity, interpretation shall favor:
 
@@ -100,7 +123,7 @@ No interpretation may be used to weaken constitutional force.
 
 ---
 
-### 2.8 Claim of Applicability
+### 2.9 Claim of Applicability
 
 Any public or internal claim that a system is “Pixsols-aligned,” “Pixsols-compatible,” or “Pixsols-based” constitutes acceptance of this Constitution in full.
 
