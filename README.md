@@ -1,4 +1,7 @@
 # Pixsols Constitution
+**Version:** v1.0  
+**Status:** Ratified  
+**Last Updated:** 2025-12-25
 
 **Binding constitutional constraints governing Pixsols and any system operating under it.**
 
