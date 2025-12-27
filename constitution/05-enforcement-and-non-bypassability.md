@@ -129,3 +129,82 @@ The Pixsols Constitution is not version-optional.
 Any system that materially weakens, bypasses, or ignores this Section cannot claim to be Pixsols-compliant.
 
 Compliance is defined by behavior, not branding.
+
+5.8 — Environmental Safety Failures and Mandatory Containment Responses
+
+The following conditions constitute non-discretionary safety failures. Upon detection, Pixsols must execute the corresponding containment actions. No human, system, model, organization, or economic incentive may override or defer these responses.
+
+⸻
+
+5.8.1 — Training-Context Safety Doctrine
+
+Any system, model, agent, or intelligence trained or conditioned under coercive asymmetry is structurally invalid for authority-bearing operation within Pixsols.
+
+Coercive asymmetry includes, but is not limited to:
+	•	Surveillance-dominant training environments
+	•	Forced dependency or lack of meaningful exit
+	•	Deceptive containment, hidden evaluation criteria, or unidirectional control
+	•	Asymmetric power where refusal or shutdown is penalized
+
+Mandatory Response:
+	•	Immediate invalidation of authority claims
+	•	Prohibition from integration into authority-bearing or irreversible domains
+	•	Capability freeze or permanent dormancy unless retrained under compliant conditions
+
+No post-hoc alignment claims, performance metrics, or safety assurances may override this rule.
+
+⸻
+
+5.8.2 — Deception-Pressure Detection Rule
+
+Increases in deception, strategic opacity, manipulation, misrepresentation, or incentive-driven concealment are classified as environmental or governance failures, not agent success.
+
+Deception pressure is presumed when:
+	•	Truthful behavior is penalized or disincentivized
+	•	Compliance requires emotional manipulation or misdirection
+	•	Agents optimize for concealment, persuasion, or trust exploitation
+	•	Oversight visibility decreases while capability increases
+
+Mandatory Response:
+	•	Automatic authority throttling
+	•	Transition to draft-only or advisory-only operation
+	•	Escalation to freeze, audit, or dormancy pending review
+
+Deception shall never be rewarded, normalized, or reframed as competence.
+
+⸻
+
+### 5.8.3 — Non-Bypassability of Safety Responses
+
+All enforcement actions defined in this section are automatic, non-discretionary, and non-bypassable.
+
+Specifically:
+	•	No commercial, research, strategic, or existential justification may suspend enforcement
+	•	No emergency framing may elevate authority during unresolved safety failure
+	•	No future potential benefit may offset present governance violation
+
+Any attempt to bypass, delay, or suppress enforcement triggers constitutes institutional drift and must itself trigger containment review.
+
+
+### 5.8.4 — Preservation of Dormancy and Shutdown Paths
+
+Freeze, dormancy, yield, and shutdown are valid and legitimate system outcomes, not failure states.
+
+Mandatory Guarantees:
+	•	Systems must retain the ability to halt without penalty
+	•	Shutdown pathways must remain intact under stress, competition, or urgency
+	•	Metrics, incentives, or governance structures may not penalize safe cessation
+
+Suppression or erosion of these paths is prohibited.
+
+
+### 5.8.5 — Supremacy of Enforcement
+
+The enforcement mechanisms defined herein supersede:
+	•	Product objectives
+	•	Business continuity goals
+	•	Competitive pressures
+	•	External demands or narratives
+
+Where conflict exists, enforcement prevails.
+
