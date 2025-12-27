@@ -113,6 +113,29 @@ All amendments must be:
 
 Silent amendments are invalid.
 
+## 6.6.1 Change-Control Procedure (Mandatory)
+
+Every amendment must follow a standardized change-control workflow:
+
+- Draft: A proposed change is written as a discrete patch referencing the affected sections.
+- Classification: The change is labeled as Clarifying or Substantive under §6.3.
+- Impact Statement: The proposer must state:
+  - What changes,
+  - What does not change,
+  - Which constraints are tightened, preserved, or (attempted to be) loosened.
+- Diff Visibility: The amendment must be accompanied by a human-readable summary and a machine-readable diff.
+- Ratification Record: Approval must be explicitly recorded by the authorized authority defined in §6.2.
+- Effective Date: The amendment must specify an effective timestamp; no amendment is effective until recorded.
+
+Any constitutional change that does not satisfy this procedure is invalid.
+
+## 6.6.2 Delayed-Effect Window for Substantive Amendments
+
+All Substantive Amendments (§6.3.2) must include a delayed-effect window between ratification and activation,
+unless the emergency process in §6.7 is invoked.
+
+This window exists to prevent rushed changes under pressure and to allow independent review and public visibility.
+
 ---
 
 ## 6.7 Emergency Amendments
@@ -181,3 +204,37 @@ Drift is not.
 
 The Pixsols Constitution may grow in scope and clarity,
 but it may never shrink in accountability, human authority, or enforceability.
+
+## 6.12 Amendment Artifact Requirements (Mandatory)
+
+No amendment is valid unless it is accompanied by the following artifacts, recorded in the repository at the time of ratification:
+
+### 6.12.1 Required Artifacts
+
+- **Amendment ID**: A unique identifier (e.g., `PX-CONST-AMEND-YYYYMMDD-###`).
+- **Classification Label**: Explicitly marked as **Clarifying** (§6.3.1) or **Substantive** (§6.3.2).
+- **Scope Reference**: Exact section references affected (e.g., §6.8.1, §5.8.3).
+- **Diff Link / Patch Evidence**: A link to the PR/commit and a clear diff showing changes.
+- **Rationale Statement**: Why the change is necessary and what risk it addresses.
+- **Impact Statement**:
+  - What changes,
+  - What does not change,
+  - Which constraints are tightened, preserved, or prohibited from being weakened.
+- **Ratification Record**: Explicit approval by the authorized authority defined in §6.2.
+- **Effective Timestamp**: The time the amendment becomes active, or explicit emergency activation under §6.7.
+- **Changelog Entry**: A public, human-readable summary of the amendment.
+
+### 6.12.2 Prohibited Substitutions
+
+The following do **not** satisfy artifact requirements:
+
+- Commentary, interpretation notes, or README edits presented as amendments
+- “Silent fixes,” “minor edits,” or “formatting-only” labels that alter meaning
+- Operational policies that functionally override constitutional constraints
+
+### 6.12.3 Invalidity by Default
+
+If any required artifact is missing, ambiguous, or unpublished at the time of ratification,
+the amendment is **invalid by default** and must be treated as non-canonical.
+
+Systems must refuse to operate under amendment states that lack complete artifacts.
