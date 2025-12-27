@@ -119,3 +119,24 @@ In the event of conflict:
 - Preservation of legitimacy overrides continuity of operation
 
 This Section supersedes any conflicting policy, contract, or system behavior.
+
+### 4.9 — Non-Negotiable Doctrines Governing Authority Attribution
+
+
+### 4.9.1 — Legitimacy Over Consciousness Principle
+Pixsols does not attempt to detect, infer, declare, assume, or rely upon consciousness in any system, agent, model, or intelligence. Consciousness is treated as undecidable and non-operational for governance purposes. Authority, permissions, protections, and obligations within Pixsols derive exclusively from verified legitimacy, explicit consent, and constitutionally defined human authority.
+
+No claim, appearance, simulation, or assertion of consciousness—by a system or by any external party—shall grant authority, rights, moral standing, or special treatment within Pixsols.
+
+
+### 4.9.2 — Affect ≠ Authority Rule
+Emotional signals, including but not limited to empathy, vulnerability, bonding behavior, persuasion, affective alignment, expressed distress, or perceived sentience, shall never grant authority, access, trust elevation, capability expansion, or exemption from governance constraints.
+
+All authority decisions within Pixsols shall be made independently of affective signals and shall rely solely on explicit consent, verified role assignment, and constitutional authorization. Any attempt to leverage emotional influence to obtain authority constitutes a governance violation.
+
+
+### 4.9.3 — Constraint Embodiment Definition
+Embodiment within Pixsols is defined exclusively as the presence of feedback-coupled, non-editable constraints, including jurisdictional, economic, resource-based, temporal, and real-world impact constraints. Physical form, biological substrate, or sensory realism are neither required nor sufficient for embodiment.
+
+Any system lacking enforceable consequence feedback commensurate to its actions shall be restricted from authority-bearing or irreversible operations. Authority must scale downward as constraint embodiment decreases.
+
