@@ -1,12 +1,41 @@
 # Pixsols Constitution
+
 **Version:** v1.0  
 **Status:** Ratified  
-**Last Updated:** 2025-12-25
+**Last Updated:** 2025-12-25  
 
 **Binding constitutional constraints governing Pixsols and any system operating under it.**
 
 This repository contains the canonical Pixsols Constitution, organized as a sequence of formally scoped sections.  
 These documents define non-bypassable rules, authority boundaries, enforcement guarantees, and lifecycle constraints that apply to Pixsols and any derivative or dependent system.
+
+---
+
+## Constitutional Role
+
+The Pixsols Constitution defines the **non-negotiable invariants** governing legitimacy, authority, enforcement, and lifecycle behavior across the Pixsols ecosystem.
+
+These constraints are **binding by design**.  
+They are not advisory, aspirational, or optional, and may not be overridden by implementation choices, optimization pressure, or external incentives.
+
+---
+
+## Enforcement & Operationalization
+
+The Pixsols Constitution defines what **must never be violated**.
+
+Operational enforcement of these invariants is defined externally in the Pixsols Protocol and its Mandatory Protocol Pathways, which specify how constitutional constraints are enforced in practice and under what conditions enforcement becomes mandatory rather than optional.
+
+- **Pixsols Protocol**  
+  https://github.com/aurionixlabs/pixsols-protocol  
+  Operational protocol layers enforcing constitutional constraints.
+
+- **Mandatory Protocol Pathways**  
+  https://github.com/aurionixlabs/pixsols-protocol/tree/main/pathways  
+  Enforcement pathways defining when Pixsols transitions from optional infrastructure to mandatory protocol.
+
+The Constitution governs in all cases.  
+The Protocol and Pathways exist solely to enforce it.
 
 ---
 
@@ -34,11 +63,11 @@ All constitutional sections live in the `/constitution` directory and are number
 
 5. **Enforcement and Non-Bypassability**  
    `05-enforcement-and-non-bypassability.md`  
-   Specifies enforcement guarantees and prohibition of circumvention.
+   Specifies enforcement guarantees and explicit prohibition of circumvention.
 
 6. **Amendments and Evolution**  
    `06-amendments-and-evolution.md`  
-   Governs how the Constitution may evolve without erosion.
+   Governs how the Constitution may evolve without erosion or capture.
 
 7. **Transparency and Auditability**  
    `07-transparency-auditability.md`  
@@ -70,14 +99,14 @@ All constitutional sections live in the `/constitution` directory and are number
 
 ---
 
-## License / Use
-
-This Constitution is published for transparency and accountability.  
-Use, implementation, or reference does not imply permission to bypass or weaken its constraints.
-
----
-
 ## Change Control
 
 All changes must follow the amendment procedures defined in **Section 6**.  
 Unauthorized modifications are non-binding.
+
+---
+
+## License / Use
+
+This Constitution is published for transparency and accountability.  
+Use, implementation, or reference does **not** imply permission to bypass, weaken, or reinterpret its constraints.
