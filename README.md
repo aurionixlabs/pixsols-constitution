@@ -24,7 +24,7 @@ They are not advisory, aspirational, or optional, and may not be overridden by i
 
 The Pixsols Constitution defines what **must never be violated**.
 
-Operational enforcement of these invariants is defined externally in the Pixsols Protocol and its Mandatory Protocol Pathways, which specify how constitutional constraints are enforced in practice and under what conditions enforcement becomes mandatory rather than optional.
+Operational enforcement of these invariants is defined externally in the Pixsols Protocol and its Mandatory Protocol Pathways, which specify how constitutional constraints are enforced in practice and under what conditions enforcement becomes mandatory rather than optional. “Nothing in the Protocol or Pathways may weaken, reinterpret, or override constitutional constraints.”
 
 - **Pixsols Protocol**  
   https://github.com/aurionixlabs/pixsols-protocol  
