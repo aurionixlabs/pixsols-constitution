@@ -6,7 +6,7 @@ must add an entry here.
 
 ---
 
-## Unreleased
+## v1.0.3 — 2025-12-27
 - Established formal amendment control framework
 - Added Section 06 — Amendments, Evolution, and Change Control
 - Created canonical amendment registry per §6.12
