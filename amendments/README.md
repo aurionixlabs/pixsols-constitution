@@ -10,4 +10,24 @@ No constitutional amendment is valid unless it is recorded here with the require
 
 | Amendment ID | Date (UTC) | Classification | Sections Touched | PR / Commit | Rationale (1–3 lines) | Effective Timestamp | Ratification Record |
 |---|---|---|---|---|---|---|---|
-| PX-CONST-AMEND-2025-12-27-001 | 2025-12-27 | Clarifying | §6.12 | (link) | Establishes amendment artifact requirements and anchors amendment discipline. | 2025-12-27T00:00:00Z | Founder (record) |
+| PX-CONST-AMEND-2025-12-27-001 | 2025-12-27 | Clarifying | §6.12 | (#px-const-amend-2025-12-27-001) | Establishes amendment artifact requirements and anchors amendment discipline. | 2025-12-27T00:00:00Z | Founder (record) |
+
+---
+
+### PX-CONST-AMEND-2025-12-27-001
+
+**Date (UTC):** 2025-12-27  
+**Classification:** Clarifying  
+**Sections Touched:** §6.12  
+**Effective Timestamp:** 2025-12-27T00:00:00Z  
+
+### Summary
+Establishes the canonical amendment artifact requirements and anchors amendment discipline.
+
+### Artifacts
+- Amendment Registry entry (this document)
+- CHANGELOG.md entry
+- PR record
+
+### Ratification
+- Ratified via GitHub PR (merge to `main`)
