@@ -6,6 +6,9 @@
 **Effective Date:** 2025-01-26  
 **Repository:** https://github.com/aurionixlabs/pixsols-constitution  
 
+**Latest Amendment:**
+[PX-CONST-AMEND-2025-12-27-001](amendments/README.md#px-const-amend-2025-12-27-001)
+
 ---
 
 ## Authority
