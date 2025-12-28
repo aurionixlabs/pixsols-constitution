@@ -1,9 +1,9 @@
 # Constitutional Status — Pixsols
 
 **Canonical Constitution:** Pixsols Constitution  
-**Current Ratified Version:** v1.0.1  
-**Status:** Ratified and Binding  
-**Effective Date:** 2025-01-26  
+Current Ratified Version: v1.0.3
+Effective Date: 2025-12-27
+Latest Amendment: PX-CONST-AMEND-2025-12-27-001 
 **Repository:** https://github.com/aurionixlabs/pixsols-constitution  
 
 **Latest Amendment:**
