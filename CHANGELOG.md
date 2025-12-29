@@ -4,6 +4,13 @@ This file records all changes to the Pixsols Constitution.
 Every pull request that modifies any file under `/constitution/`
 must add an entry here.
 
+## v1.0.4 — 2025-12-29
+
+### Added
+- Section 12 — Capability Overhang and Deployment Gates
+  - Establishes mandatory non-deployment defaults under capability overhang
+  - Formalizes freeze and exit as prerequisites for scaling
+
 ---
 
 ## v1.0.3 — 2025-12-27
